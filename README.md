@@ -119,9 +119,13 @@ To see details about Adams optimizer algorithm, you can refer [!here](https://ar
 My final model results were:
 
 * The first model (Grayscale inputs):
+
     * Training and validation accuracy:
+    
     ![Gray model](./examples/AccuracyGray.jpg)
+    
     * Loss:
+    
     ![Gray model](./examples/LossGray.jpg)
     
 |Model with gray inputs 	|
@@ -133,12 +137,16 @@ My final model results were:
 |The training time:	 115|
 
 * The first model (RBG inputs):
+
     * Training and validation accuracy:
+    
     ![RGB model](./examples/AcuraccyRGB.jpg)
+    
     * Loss:
+    
     ![RGB model](./examples/LossRGB.jpg)
     
-|Model with gray inputs 	|
+|Model with RGB inputs 	|
 |:---------------------------------------:|
 |Final train SET accuracy :	 0.998678122935| 
 |Final validation SET accuracy :   	 0.98798185941| 
