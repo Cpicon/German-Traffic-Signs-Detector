@@ -134,9 +134,9 @@ My final model results were:
 
 * The first model (RBG inputs):
     * Training and validation accuracy:
-    [Gray RGB](./examples/AcuraccyRBG.jpg)
+    ![RGB model](./examples/AcuraccyRGB.jpg)
     * Loss:
-    ![Gray RGB](./examples/LossRGB.jpg)
+    ![RGB model](./examples/LossRGB.jpg)
     
 |Model with gray inputs 	|
 |:---------------------------------------:|
