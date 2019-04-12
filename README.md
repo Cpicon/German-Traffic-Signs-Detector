@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Traffic Sign Recognition** 
 
 ## Introduction
@@ -172,3 +173,6 @@ The difference in time between the models was 30 seconds being the gray model mo
 
 
 
+=======
+# German-Traffic-Signs-Detector
+>>>>>>> 5e25dde40cdf38c09f5476e3e07dde6350eb8ab1
