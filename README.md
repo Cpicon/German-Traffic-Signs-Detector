@@ -120,9 +120,9 @@ My final model results were:
 
 * The first model (Grayscale inputs):
     * Training and validation accuracy:
-    [Gray model](./examples/AccuracyGray.jpg)
+    ![Gray model](./examples/AccuracyGray.jpg)
     * Loss:
-    [Gray model](./examples/LossGray.jpg)
+    ![Gray model](./examples/LossGray.jpg)
     
 |Model with gray inputs 	|
 |:---------------------------------------:|
@@ -132,11 +132,11 @@ My final model results were:
 |Test new images:	  0.4| 
 |The training time:	 115|
 
-* The first model (Grayscale inputs):
+* The first model (RBG inputs):
     * Training and validation accuracy:
-    [Gray model](./examples/AccuracyRBG.jpg)
+    [Gray RGB](./examples/AccuracyRBG.jpg)
     * Loss:
-    [Gray model](./examples/LossRGB.jpg)
+    ![Gray RGB](./examples/LossRGB.jpg)
     
 |Model with gray inputs 	|
 |:---------------------------------------:|
@@ -170,9 +170,3 @@ The model was able to correctly guess 3 of the 5 traffic signs, which gives an a
 The difference in time between the models was 30 seconds being the gray model most quickly to train. However, predicting new images was found that the RGB model has more accuracy ( One image more). The models don't present overfitting or underfitting since the validation and training accuracy was close to each other. 
 
 
-
-
-
-=======
-# German-Traffic-Signs-Detector
->>>>>>> 5e25dde40cdf38c09f5476e3e07dde6350eb8ab1
