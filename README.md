@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **Traffic Sign Recognition** 
 
 ## Introduction
@@ -134,7 +134,7 @@ My final model results were:
 
 * The first model (RBG inputs):
     * Training and validation accuracy:
-    [Gray RGB](./examples/AccuracyRBG.jpg)
+    [Gray RGB](./examples/AcuraccyRBG.jpg)
     * Loss:
     ![Gray RGB](./examples/LossRGB.jpg)
     
